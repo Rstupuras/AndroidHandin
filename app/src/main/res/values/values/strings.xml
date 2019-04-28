@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HandIN</string>
+    <string name="european_countries">European countries</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="all_countries">All countries</string>
+    <string name="visited_countries">Visited countries</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="options">options</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

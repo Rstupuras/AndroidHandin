@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/allCountries"
+
+            android:title="@string/all_countries" />
+
+    </group>
+
+
+
+    <item>
+        <menu>
+            <item
+                android:id="@+id/visitedCountries"
+                android:title="@string/visited_countries" />
+            <item
+                android:id="@+id/wishlist"
+                android:title="@string/wishlist" />
+        </menu>
+    </item>
+</menu>
